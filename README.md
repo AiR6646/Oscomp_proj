@@ -1,1 +1,1 @@
-# Oscomp_pro
+# Oscomp_proj
